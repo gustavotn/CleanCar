@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807138107355",
+    "project_id": "clean-car-d3852",
+    "storage_bucket": "clean-car-d3852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807138107355:android:a7fd2a2b17c632a6fc91fe",
+        "android_client_info": {
+          "package_name": "com.example.cleancar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807138107355-g7bjsdemm7vvb5ne67f29blgk6upo5ih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrzNivfmvJu2WXu5wKqqenkkcGpARsOLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807138107355-g7bjsdemm7vvb5ne67f29blgk6upo5ih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
